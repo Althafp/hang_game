@@ -1,0 +1,8 @@
+name = "next-project-programs"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/hangman.py"
+name = "hangman"
+prime_size = 128
